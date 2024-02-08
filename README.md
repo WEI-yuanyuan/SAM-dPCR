@@ -26,13 +26,13 @@
 ------------
   
 # Introduction
-**SAM-dPCR** is a deep-learning assisted bioanalysis tool, developed for rapid and accruate quantification of biological models. Its applications include image analysis of droplet-PCR and microwell-PCR of samples such as agarose and bacteria. Below is a structured guide of how to implement SAM-dPCR on a standard desktop computer, and use it to analyse laboratory images, thus speeding up the bio-analysis process.  
+**SAM-dPCR** is a deep-learning assisted bioanalysis tool, developed for rapid and accurate quantification of biological models. Its applications include image analysis of droplet-PCR and microwell-PCR of samples such as agarose and bacteria. Below is a structured guide of how to implement SAM-dPCR on a standard desktop computer, and use it to analyse laboratory images, thus speeding up the bio-analysis process.  
 ## System Requirements
 ### Hardware Requirements
 The system requires no non-standard hardware and could run on standard desktop computers. It could operate without a GPU, while implementing one would decrease the expected run time.
 ### Software Requirements
 #### OS Requirements
-This package is supported for *MacOS*, *Windows* and *Linux*. It had been tested on the systems listed below:
+This package is supported for *MacOS*, *Windows* and *Linux*. It has been tested on the systems listed below:
 1. *macOS*: Ventura 13.0 & Sonoma 14.2.1
 2. *Windows*: 11 Home 22H2
 
