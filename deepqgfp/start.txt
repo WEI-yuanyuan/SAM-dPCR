@@ -1,0 +1,1 @@
+python train.py --weights yolov5s.pt --cfg yolov5s.yaml --img 640 --epochs 200

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Negative', 'Positive']
+
+roboflow:
+  workspace: the-chinese-university-of-hong-kong-hiv7d
+  project: microwell_v1
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/the-chinese-university-of-hong-kong-hiv7d/microwell_v1/dataset/2
