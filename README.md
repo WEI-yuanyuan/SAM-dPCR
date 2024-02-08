@@ -26,7 +26,8 @@
 ------------
   
 # Introduction
-**SAM-dPCR** is a deep-learning assisted bioanalysis tool, developed for rapid and accurate quantification of biological models. Its applications include image analysis of droplet-dPCR and microwell-dPCR of samples such as agarose and bacteria. Below is a structured guide of how to implement SAM-dPCR on a standard desktop computer, and use it to analyse laboratory images, thus speeding up the bio-analysis process.  
+**SAM-dPCR** is a novel, open-source, self-supervised bioanalysis paradigm that integrates the zero-shot segment anything model (SAM) with digital PCR technology. This advanced system swiftly and accurately quantifies encapsulated biological samples, boasting over 97.7% accuracy in under 4 seconds. SAM-dPCR is adaptable to standard lab fluorescence microscopes and various experimental conditions including droplet-based, microwell-based, and agarose-based microreactors, demonstrating broad application scope within molecular biology. This innovative method enhances dPCR data visualization and analysis, offering high throughput, accuracy, and generalizability, thereby addressing bioanalytical needs in resource-limited settings. Below is a structured guide to implementing SAM-dPCR on a standard desktop computer to analyze dPCR images, thus speeding up the absolute quantification of biological samples. 
+
 ## System Requirements
 ### Hardware Requirements
 The system requires no non-standard hardware and could run on standard desktop computers. It could operate without a GPU, while implementing one would decrease the expected run time.
