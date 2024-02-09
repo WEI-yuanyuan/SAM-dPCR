@@ -1,4 +1,4 @@
-# SAM-dPCR: Towards High-Throughput, Cost-Effective Biological Sample Quantification Leveraging the Zero-Shot Segment Anything Model
+# SAM-dPCR: Accurate and Generalist Biological Sample Quantification Leveraging the Zero-Shot Segment Anything Model
 
 # **Table of Contents**
 - [**Introduction**](#introduction)
