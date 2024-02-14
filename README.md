@@ -91,7 +91,7 @@ Follow the steps below to set up CUDA to run the code faster:
 
 1. **Check your system compatibility**: Ensure that your system has a CUDA-compatible GPU. You can check this on the NVIDIA website.
 
-2. **Install PyTorch for CUDA**: If you wish to use GPU acceleration, install the appropriate version of PyTorch for CUDA. Follow the instructions provided on the [official website](http://https://pytorch.org/get-started/locally/ "official website") to do this.
+2. **Install PyTorch for CUDA**: If you wish to use GPU acceleration, install the appropriate version of PyTorch for CUDA. Follow the instructions provided on the [official website](https://pytorch.org/get-started/locally/ "official website") to do this.
 
 3. **Modify the code**: Change line 10 `device = "cpu"` to `device = "cuda"` in the `main.py`.
 
@@ -153,7 +153,7 @@ Follow the steps below to set up CUDA:
 
 1. **Check your system compatibility**: Ensure that your system has a CUDA-compatible GPU. You can check this on the NVIDIA website.
 
-2. **Install PyTorch for CUDA**: If you wish to use GPU acceleration, install the appropriate version of PyTorch for CUDA. Follow the instructions provided on the [official website](http://https://pytorch.org/get-started/locally/ "official website") to do this.
+2. **Install PyTorch for CUDA**: If you wish to use GPU acceleration, install the appropriate version of PyTorch for CUDA. Follow the instructions provided on the [official website](https://pytorch.org/get-started/locally/ "official website") to do this.
 
 3.**Modify the code**: Change line 64 `device='cuda device, i.e. 0 or 0,1,2,3 or cpu'` in `detect_LabelsOutput.py`. Or add `--device 'cuda device, i.e. 0 or 0,1,2,3 or cpu' ` in the command line.
 
