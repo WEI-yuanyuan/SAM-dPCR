@@ -22,6 +22,7 @@
   - [**Running the Code for Deep-qGFP**](#running-the-code-for-deep-qgfp)
     -[**Steps to Run the Code for Deep-qGFP**](#steps-to-run-the-code-for-deep-qgfp)
 - [**Demo**](#demo)
+- [**Contributions**](#contributions)
 
 ------------
   
@@ -177,3 +178,7 @@ Follow the steps below to run the code:
 - For SAM-dPCR: Demo images have been placed in `samdpcr/data/test/files`. After installation progress, simply run `python main.py`, the output files will be loaded to both `samdpcr/data/test/files` and `samdpcr/data/test/outputfiles `.
 
 - For Deep-qGFP: Same demo images have been placed in `deepqgfp/data/test/files`. After installation progress, simply run `python detect_LabelsOutput.py`, the output files will be loaded to `deepqgfp/runs/detect/exp`.
+
+# Contributions
+- Code developer: Shanhang Luo & Changran Xu
+- File developer: Changran Xu & Yingqi Fu
